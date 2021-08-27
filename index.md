@@ -25,15 +25,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-1.1
-2.2
-3.3
-4.4
-5.5
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
 
--bullet one
--bullet two
--bullet three
+- bullet one
+- bullet two
+- bullet three
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
