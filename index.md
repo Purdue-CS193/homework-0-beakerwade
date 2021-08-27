@@ -1,4 +1,11 @@
+# Nicholas Wade First CS193 Homework
+
 ## Welcome to GitHub Pages
+
+**Favorite Things About CS 193**
+- that it is taught by previous students
+- that it provides us with the knowledge to use tools that are actually helpful to us students
+- that it is laid back while maintaining a classroom setting 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
